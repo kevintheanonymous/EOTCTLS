@@ -1,0 +1,35 @@
+{
+  "welcome": "እንኳን ወደ የገንዘብ አስተዳደር መተግበሪያ በደህና መጡ",
+  "dashboard": {
+    "title": "ዳሽቦርድ",
+    "totalIncome": "ጠቅላላ ገቢ",
+    "totalExpenses": "ጠቅላላ ወጪ",
+    "netBalance": "የኔ ዋጋ"
+  },
+  "transactions": {
+    "title": "ግብይት",
+    "addTransaction": "ግብይት ይጨምሩ",
+    "transactionType": "የግብይት ዓይነት",
+    "amount": "መጠን",
+    "date": "ቀን",
+    "description": "መግለጫ"
+  },
+  "reports": {
+    "title": "ሪፖርቶች",
+    "generateReport": "ሪፖርት ይፍጠሩ",
+    "selectDateRange": "ቀን ክልል ይምረጡ"
+  },
+  "settings": {
+    "title": "ቅንብሮች",
+    "language": "ቋንቋ",
+    "currency": "ገንዘብ"
+  },
+  "errors": {
+    "requiredField": "ይቅርታ፣ ይህ መስመር ያስፈልጋል",
+    "invalidAmount": "የተሳሳተ መጠን"
+  },
+  "success": {
+    "transactionAdded": "ግብይት ተጨምሯል",
+    "settingsSaved": "ቅንብሮች ተያይዞታል"
+  }
+}

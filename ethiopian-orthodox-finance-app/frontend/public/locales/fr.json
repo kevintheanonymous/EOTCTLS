@@ -1,0 +1,35 @@
+{
+  "welcome": "Bienvenue dans l'application de gestion financière de l'Église Éthiopienne Orthodoxe Tewahedo de Toulouse",
+  "dashboard": {
+    "title": "Tableau de bord",
+    "totalDonations": "Total des dons",
+    "totalExpenses": "Total des dépenses",
+    "netIncome": "Revenu net"
+  },
+  "transactions": {
+    "title": "Transactions",
+    "addTransaction": "Ajouter une transaction",
+    "transactionDate": "Date de la transaction",
+    "amount": "Montant",
+    "description": "Description",
+    "category": "Catégorie"
+  },
+  "reports": {
+    "title": "Rapports",
+    "generateReport": "Générer un rapport",
+    "selectDateRange": "Sélectionner la plage de dates"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "language": "Langue",
+    "currency": "Devise"
+  },
+  "errors": {
+    "requiredField": "Ce champ est requis",
+    "invalidAmount": "Montant invalide"
+  },
+  "success": {
+    "transactionAdded": "Transaction ajoutée avec succès",
+    "reportGenerated": "Rapport généré avec succès"
+  }
+}
