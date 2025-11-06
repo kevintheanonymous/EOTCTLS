@@ -4,6 +4,7 @@ import App from './App';
 import { I18nProvider } from './providers/I18nProvider';
 import { store } from './state/store';
 import { Provider } from 'react-redux';
+import './styles/global.css';
 
 const rootElement = document.getElementById('root');
 
