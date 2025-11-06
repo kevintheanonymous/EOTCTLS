@@ -1,0 +1,16 @@
+:root {
+    /* add custom theme variables or leave empty */
+}
+
+body {
+    margin: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI',
+        sans-serif;
+    background-color: #fdf9f1;
+    color: #1c4732;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
